@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sit2Long</string>
+    <string name="stop_btn_str">Stop Tracking</string>
+    <string name="start_btn_str">Start Tracking</string>
+    <string name="init_time">Time Sitting: 00 : 00 : 00</string>
+    <string name="message">Taking regular breaks from sitting improves circulation and reduces the risk of health problems.</string>
+    <string name="tip">Health Tip</string>
+    <string name="duration">Sitting Duration</string>
+</resources>
